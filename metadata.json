@@ -1,0 +1,7 @@
+{
+  "name": "Gemini iPad AI",
+  "description": "Google Gemini for iPad in Dark Mode with real-time Canvas, split-screen code and interactive preview, and Gemini Advanced Infinite Pro upgrade challenge.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
